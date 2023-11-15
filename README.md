@@ -115,7 +115,9 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), W
 
 ## OUTPUT :
   ![o](1.png)
+  
   ![o](2.png)
+  
   ![o](3.png)
 
 ## RESULT:
